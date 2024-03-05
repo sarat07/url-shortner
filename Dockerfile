@@ -11,7 +11,7 @@ RUN mv /Users/jaishree/url-shortening-service /Users/jaishree/App
 WORKDIR /Users/jaishree/App
 
 # Clone the repository from Git (replace with your Git repository URL)
-#RUN git clone https://github.com/your-username/your-repo.git .
+#RUN git clone https://github.com/sarat07/url-shortner.git .
 
 # Install dependencies for both frontend and backend
 RUN cd backend && npm install
