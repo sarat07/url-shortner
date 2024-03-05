@@ -1,0 +1,5 @@
+{   "scripts": {
+    "start:backend":"cd backend/ && npm run start:backend", 
+    "start:frontend":"cd frontend/url-shortner/ && npm run start:frontend"
+  }
+}

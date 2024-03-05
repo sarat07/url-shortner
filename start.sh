@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Start backend
-npm run ./be-app/start:backend &
+npm run start:backend &
 
 # Start frontend
-npm run ./fe-app/start:frontend
+npm run start:frontend
 
