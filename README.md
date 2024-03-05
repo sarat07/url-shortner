@@ -12,7 +12,7 @@ This will start both the front end and back end apps and it should open the app 
 
 The following are the tech stack:
 Frontend - React, Typescript, Html and CSS.
-Backend - Express(Node), Mangoose and Mongo DB.
+Backend - Express(Node), Typescript, Mangoose and Mongo DB.
 
 What can the app do?
 1. Enter any valid url and it will shorten.
