@@ -2,7 +2,7 @@
 
 
 1. Clone the repository by running the below command:
-git clone https://github.com/sarat07/url-shortner.git ./<workspace>
+git clone https://github.com/sarat07/url-shortner.git ./workspace
 2. Execute permissions for start.sh script by running the below command:
 chmod +x start.sh
 3. run the start script by running the below command:
